@@ -1,2 +1,3 @@
 # Real-Estate-Rental-Market-Segmentation
-This Project is done under Fyenn Labs
+For more detalis view th pdf file in this repositary for better understandin
+
